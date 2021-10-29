@@ -1,0 +1,12 @@
+prefix=D:/ML_Projects/House_Price_Prediction/env/Library
+exec_prefix=D:/ML_Projects/House_Price_Prediction/env/Library
+libdir=D:/ML_Projects/House_Price_Prediction/env/Library/lib
+includedir=D:/ML_Projects/House_Price_Prediction/env/Library/include/libpng16
+
+Name: libpng
+Description: Loads and saves PNG files
+Version: 1.6.37
+Requires: zlib
+Libs: -L${libdir} -lpng16
+Libs.private: -lz -lm
+Cflags: -I${includedir}

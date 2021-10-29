@@ -1,0 +1,11 @@
+prefix=D:/ML_Projects/House_Price_Prediction/env/Library
+exec_prefix=D:/ML_Projects/House_Price_Prediction/env/Library
+libdir=D:/ML_Projects/House_Price_Prediction/env/Library/lib
+includedir=D:/ML_Projects/House_Price_Prediction/env/Library/include
+
+Name: libtiff
+Description:  Tag Image File Format (TIFF) library.
+Version: 4.2.0
+Libs: -LD:/ML_Projects/House_Price_Prediction/env/Library/lib -ltiff
+Libs.private: 
+Cflags: -ID:/ML_Projects/House_Price_Prediction/env/Library/include
